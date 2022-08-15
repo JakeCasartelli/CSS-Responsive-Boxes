@@ -1,3 +1,10 @@
 body {
   background: papayawhip;
+  min-height: 100vh;
+}
+
+
+
+.container{
+  border-style: solid ;
 }
